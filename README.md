@@ -10,4 +10,4 @@ Realización de los programas de los ejercicios de algoritmos con Javascript
 
 ----
 
-> Nota: El programa #1 se encuentra en desarrollo
+> Nota: El programa #2 se encuentra en desarrollo
